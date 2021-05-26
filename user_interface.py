@@ -1,3 +1,4 @@
 class User_Interface:
     def __init__(self):
-        self.name = name
+        self.user_inteface = User_Interface
+
