@@ -3,6 +3,5 @@ class Marketing_Firm:
         self.marketing_firm = Marketing_Firm
         self.manager = manager
 
-    (manager): void
 
-    def create_sweepstakes(self): void
+    def create_sweepstakes(self): pass

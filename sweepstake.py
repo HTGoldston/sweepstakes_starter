@@ -1,11 +1,9 @@
-class Sweepstake
+class Sweepstake:
     def __init__(self, contestants, name):
-        self.sweepsstake = Sweepstake
+        self.sweepstake = Sweepstake
         self.contestants = contestants
-        self.name = name
 
     def register_contstant(contestant): void
 
-    def pick_winner():contestant:
+    def pick_winner(): pass
 
-    print_contsatant_info(contestant): void
