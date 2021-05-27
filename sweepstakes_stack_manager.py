@@ -4,3 +4,5 @@ class Sweepstakes_Stack_Manager:
         self.stack = stack
 
     def insert_sweepstakes(sweepstakes): pass
+
+    def get_sweepstakes(): Sweepstake
